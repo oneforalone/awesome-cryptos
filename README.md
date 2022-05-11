@@ -22,9 +22,7 @@ Learning is hard, especially in cryptos, please take you time and enjoy.
   - [Security](#security)
   - [Further Reading](#further-reading)
 
-## [101][101]
-
-[101]: https://en.wikipedia.org/wiki/101_(slang)
+## 101
 
 ### Concept
 
@@ -42,7 +40,7 @@ Learning is hard, especially in cryptos, please take you time and enjoy.
   - [Go](https://go.dev/doc/)
   - [WASM](https://webassembly.org/getting-started/developers-guide/)
 
-## [Practical](https://en.wiktionary.org/wiki/practical)
+## Practical
 
 - Toolkits
   - [Truffle](https://trufflesuite.com/docs/truffle/quickstart/), oldest one, not recommand.
@@ -69,11 +67,11 @@ Learning is hard, especially in cryptos, please take you time and enjoy.
   - [Solidity in 2 hours](https://youtu.be/ipwxYa-F1uY), by Gregory.
   - [Solidity, Blockchain, and Smart Contract Course](https://youtu.be/M576WGiDBdQ), by Patrick Collins.
 
-## [Learn By Example](https://en.wikipedia.org/wiki/Learning-by-doing)
+## Learn By Example
 
 - [CryptosZombies](https://cryptozombies.io/en/course), by Loom. A tutorial teaching how to build a game on Ethereum using solidity step by step.
 
-## [Advanced](https://en.wiktionary.org/wiki/advance)
+## Advanced
 
 ### Bitcoin
 
@@ -124,7 +122,7 @@ Learning is hard, especially in cryptos, please take you time and enjoy.
   - [EVM Playground for OPCODES](https://www.evm.codes/), by comitylabs. An interactive website & EVM playground. One of the most valuable tools for EVM developers. It contains a list of all opcodes, as well as description and a playground where you can observe how they work.
   - [EVM puzzles](https://github.com/fvictorio/evm-puzzles), by Fvictorio. A collection of interactive EVM puzzles on GitHub, these are great to help consolidate your learnings from other resources.
 
-## [Security](https://en.wikipedia.org/wiki/Computer_security)
+## Security
 
 - Books
   - [区块链黑暗森林自救手册](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) by 余弦. A selfguard handbook to teach you master the security of your cryptocurrency.
@@ -134,7 +132,7 @@ Learning is hard, especially in cryptos, please take you time and enjoy.
   - [Escaping the Dark Forest](https://samczsun.com/escaping-the-dark-forest/), by samczsun. A journal of a hacker(samczsun) who rescue over 25,000 Ether from a vulnerable smart contract.
   - [Maximal Extractable Value (MEV)](https://ethereum.org/en/developers/docs/mev/), by ethereum contributors. An introduction of MEV.
 
-## [Further Reading](https://en.wikipedia.org/wiki/Wikipedia:Further_reading)
+## Further Reading
 
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 - [Ethereum Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf)

@@ -5,7 +5,7 @@
 
 > Inspired by [awesome-openzepplin](https://github.com/OpenZeppelin/awesome-openzeppelin/tree/d6190b6fdf099476648eebd0f6bfb50e31597016), resources for a better understanding in cryptos.
 
-Learning is hard, especially in cryptos, please take you time and enjoy.
+Learning is hard, especially in cryptos, please take your time and enjoy.
 
 ## Table of Contents
 

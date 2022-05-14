@@ -58,6 +58,7 @@ Learning is hard, especially in cryptos, please take your time and enjoy.
     - [Part 3 - Submitting your Smart Contract to Etherscan](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract/submitting-your-smart-contract-to-etherscan)
   - [OpenZeppelin guide for developing smart contract](https://docs.openzeppelin.com/learn/), by OpenZeppelin.
   - [Best Practices for Smart Contract Development](https://yos.io/2019/11/10/smart-contract-development-best-practices/), by Yos Riady.
+  - [Web3 DApp 最佳编程实践指南](https://guoyu.mirror.xyz/RD-xkpoxasAU7x5MIJmiCX4gll3Cs0pAd5iM258S1Ek), by 郭宇. A structured resources of DApp Developing.
 
 - Videos
   - Hello World Series, by Albert

@@ -49,7 +49,7 @@ Learning is hard, especially in cryptos, please take your time and enjoy.
   - [Foundry](https://book.getfoundry.sh/), build with rust, the fastest one, with debug mode.
 
 - Books
-  - [区块链以太坊DApp开发实战](https://github.com/oneforalone/awesome-cryptos/res/blockchain-dapp-development.pdf), by 林冠宏. Most focus on building an Ethereum Relayer.
+  - [区块链以太坊DApp开发实战](./res/blockchain-dapp-development.pdf), by 林冠宏. Most focus on building an Ethereum Relayer.
 
 - Posts
   - Hello World Series, by Albert
@@ -119,6 +119,8 @@ Learning is hard, especially in cryptos, please take your time and enjoy.
   - [Ethereum EVM illustrated](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf), by Takenobu T. A brief introduction of Ethereum.
 
 - Misc
+  - [A Collection of Gas Optimisation Tricks](https://forum.openzeppelin.com/t/a-collection-of-gas-optimisation-tricks/19966)
+  - [DesignPatternsforGasOptimizationinEthereum](./res/DesignPatternsforGasOptimizationinEthereum.pdf)
   - [EVM Playground for OPCODES](https://www.evm.codes/), by comitylabs. An interactive website & EVM playground. One of the most valuable tools for EVM developers. It contains a list of all opcodes, as well as description and a playground where you can observe how they work.
   - [EVM puzzles](https://github.com/fvictorio/evm-puzzles), by Fvictorio. A collection of interactive EVM puzzles on GitHub, these are great to help consolidate your learnings from other resources.
 

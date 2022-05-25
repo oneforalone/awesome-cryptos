@@ -131,6 +131,7 @@ Learning is hard, especially in cryptos, please take your time and enjoy.
   - [区块链黑暗森林自救手册](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) by 余弦. A selfguard handbook to teach you master the security of your cryptocurrency.
 
 - Posts
+  - [Web3 科学家极简入门指南](https://mirror.xyz/gm365.eth/ad4vbp_qLFKaOrAMtE2YZ6pzMuC3ejam-y_62QogSds), by gm365.eth. An overview of programming in web3.
   - [Ethereum is a Dark Forest](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest), by Dan Robinson, Georgios Konstantopoulos. A brief introduction about Security in Ethereum.
   - [Escaping the Dark Forest](https://samczsun.com/escaping-the-dark-forest/), by samczsun. A journal of a hacker(samczsun) who rescue over 25,000 Ether from a vulnerable smart contract.
   - [Maximal Extractable Value (MEV)](https://ethereum.org/en/developers/docs/mev/), by ethereum contributors. An introduction of MEV.

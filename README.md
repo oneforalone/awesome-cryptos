@@ -20,6 +20,7 @@ Learning is hard, especially in cryptos, please take your time and enjoy.
     - [Bitcoin](#bitcoin)
     - [Ethereum](#ethereum)
   - [Security](#security)
+  - [Roadmap](#roadmap)
   - [Further Reading](#further-reading)
 
 ## 101
@@ -100,10 +101,11 @@ Learning is hard, especially in cryptos, please take your time and enjoy.
     - [Part 6 - The Metadata Hash](https://blog.zeppelin.solutions/deconstructing-a-solidity-contract-part-vi-the-swarm-hash-70f069e22aef)
 
   - EVM Deep Dives series, by noxx. A brief view of contract in EVM OPCODES, detailed in function selector, memory and storage in EVM.
-    - [Part 1 - Function Selector Deep Dive](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy?s=r)
-    - [Part 2 - Memory in the EVM](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-d6b?s=r)
-    - [Part 3 - Storage in the EVM](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-3ea?s=r)
-    - [Part 4 - Storage Opcodes in Geth](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-5a5?s=r)
+    - [Part 1 - Function Selector Deep Dive](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy?s=r), introducing how solidity function works in EVM apsect.
+    - [Part 2 - Memory in the EVM](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-d6b?s=r), guide for how EVM deal with solidity variables in its memory.
+    - [Part 3 - Storage in the EVM](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-3ea?s=r), explain how EVM storage works, ie. store/retrieve an value.
+    - [Part 4 - Storage Opcodes in Geth](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-5a5?s=r), reveal the EVM storage OPCODE in geth source code.
+    - [Part 5 - CALL v.s DELEGATECALL](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-a5f?s=r), a comparison between `CALL` and `DELEGATECALL` in solidity.
 
   - [A Playdate with the EVM](https://femboy.capital/evm-pt1), by Femboy Capital. A blogpost that give a basic overview of the EVM, explaining how stack machines work before showing us how to write some assembly.
 
@@ -135,6 +137,13 @@ Learning is hard, especially in cryptos, please take your time and enjoy.
   - [Ethereum is a Dark Forest](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest), by Dan Robinson, Georgios Konstantopoulos. A brief introduction about Security in Ethereum.
   - [Escaping the Dark Forest](https://samczsun.com/escaping-the-dark-forest/), by samczsun. A journal of a hacker(samczsun) who rescue over 25,000 Ether from a vulnerable smart contract.
   - [Maximal Extractable Value (MEV)](https://ethereum.org/en/developers/docs/mev/), by ethereum contributors. An introduction of MEV.
+  - MEV Memooris, by noxx. A complete tutorial about MEV analysing.
+    - [Chapter 1: MevAlphaLeak, Part 1](https://noxx.substack.com/p/mev-memoirs-into-the-arena-chapter?s=r), an summary about MevAlphaLeak MEV bot: ApeBot.
+    - [Chapter 1: MevAlphaLeak, Part 2](https://noxx.substack.com/p/mev-memoirs-into-the-arena-chapter-3e9?s=r), take a deep into MevAlphaLeak MEV bot.
+
+## Roadmap
+
+- [DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map), by OffcierCia. A Complete Road Map for DeFi developer.
 
 ## Further Reading
 

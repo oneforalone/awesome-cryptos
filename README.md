@@ -145,6 +145,8 @@ Learning is hard, especially in cryptos, please take your time and enjoy.
 
 - [DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map), by OffcierCia. A Complete Road Map for DeFi developer.
 
+- [Hacking the Blockchain: Ethereum](https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b), by Sleepy. An complete road map for Ethereum hackers.
+
 ## Further Reading
 
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)

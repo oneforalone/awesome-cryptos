@@ -147,6 +147,8 @@ Learning is hard, especially in cryptos, please take your time and enjoy.
 
 - [Hacking the Blockchain: Ethereum](https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b), by Sleepy. An complete road map for Ethereum hackers.
 
+- [Secureum Epoch0 Bootcamp for Smart Contract auditing](https://github.com/x676f64/secureum-mind_map), by Secureum. An road map for auditing smart contract.
+
 ## Further Reading
 
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
